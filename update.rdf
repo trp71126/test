@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Seq RDF:about="rdf:#$OwJ+w2">
+    <RDF:li RDF:resource="rdf:#$PwJ+w2"/>
+  </RDF:Seq>
+  <RDF:Description RDF:about="rdf:#$SwJ+w2"
+                   em:id="{4c055f49-6e87-4390-a73f-7595b8991dce}"
+                   em:updateLink="https://github.com/trp71126/test/blob/master/kerker.xpi"
+                   em:updateHash="sha1:2993621832B0BF2F01390168455DF0F87916AF34" />
+  <RDF:Description RDF:about="urn:mozilla:extension:{4c055f49-6e87-4390-a73f-7595b8991dce}"
+                   em:signature="MIGTMA0GCSqGSIb3DQEBDQUAA4GBAHem6I0GIr/XBgUl+H2HoAr8AyYWtoVUEgPb+yb0zEP61tXTR4dTWLVFdT7u/ghDwkfq7ISqYKBNaJ0/auBvY8fVRHlSGTTLrGJEwelMmRObQuJ5DA34pn+bmEbk0sHDdNWTUhqJCfvvr6Gp0BJKEpoSIdbPa2wGqHX8pq9QozFa">
+    <em:updates RDF:resource="rdf:#$OwJ+w2"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="rdf:#$PwJ+w2"
+                   em:version="0.11">
+    <em:targetApplication RDF:resource="rdf:#$SwJ+w2"/>
+  </RDF:Description>
+</RDF:RDF>
