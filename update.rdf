@@ -14,7 +14,7 @@
     <em:updates RDF:resource="rdf:#$OwJ+w2"/>
   </RDF:Description>
   <RDF:Description RDF:about="rdf:#$PwJ+w2"
-                   em:version="0.11">
+                   em:version="0.16">
     <em:targetApplication RDF:resource="rdf:#$SwJ+w2"/>
   </RDF:Description>
 </RDF:RDF>
